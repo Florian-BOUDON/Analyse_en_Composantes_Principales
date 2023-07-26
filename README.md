@@ -26,7 +26,7 @@ Utilisation du nuage des individus pour visualiser la projection des individus d
 **Inclusion de Variables et d'Individus Illustratifs**    
 Techniques pour inclure des variables et des individus supplémentaires dans l'ACP afin d'obtenir des informations complémentaires.
 
-**Calcul des Barycentres**
+**Calcul des Barycentres**    
 Calcul des barycentres pour identifier les individus les plus représentatifs d'un groupe.
 
 ### Prérequis
