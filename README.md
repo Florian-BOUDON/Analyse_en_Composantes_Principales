@@ -30,12 +30,12 @@ Techniques pour inclure des variables et des individus supplémentaires dans l'A
 Calcul des barycentres pour identifier les individus les plus représentatifs d'un groupe.
 
 ### Prérequis
-Nous travaillons dans un environnement composé de :   
+Nous travaillons dans un environnement composé de :      
 
 Python 3.x    
 pandas    
 numpy     
-scikit-learn
+scikit-learn     
 matplotlib   
 
 ### Structure du Projet
