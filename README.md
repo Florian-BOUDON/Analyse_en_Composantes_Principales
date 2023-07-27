@@ -1,6 +1,6 @@
 # Cours Complet sur l'Analyse en Composantes Principales
 
-Ce projet contient un cours complet sur l'Analyse en Composantes Principales (ACP), basé sur le cours de Ricco RAKOTOMALALA. 
+Ce projet est un cours complet sur l'Analyse en Composantes Principales (ACP), basé sur le cours de Ricco RAKOTOMALALA. 
 
 ### Description du Cours
 L'Analyse en Composantes Principales (ACP) est une technique de réduction de dimension très utilisée pour explorer et visualiser des données multidimensionnelles. Ce cours couvre l'ensemble des concepts clés de l'ACP, y compris :
