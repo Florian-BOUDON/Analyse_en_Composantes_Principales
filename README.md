@@ -51,4 +51,5 @@ Le fichier README.md est le présent document, fournissant une description déta
 
 ### Conclusion
 Ce projet présente un cours complet sur l'analyse en composantes principales (ACP), basé sur les enseignements de Ricco RAKOTOMALALA.     
-En suivant ce cours, vous pourrez maîtriser l'ACP en python et utiliser cette technique pour explorer et visualiser des données multidimensionnelles de manière efficace. 
+En suivant ce cours, nous maîtrions chacune des étapes de l'ACP en python.   
+Ce qui permet d'utiliser cette technique pour explorer et visualiser des données multidimensionnelles de manière efficace. 
