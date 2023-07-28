@@ -11,7 +11,7 @@ Présentation des concepts de base, l'objectif de l'ACP, et ses principales appl
 **Instanciation de l'ACP en python**     
 Instructions pour instancier et utiliser l'ACP en Python à l'aide des bibliothèques pandas, numpy et scikit-learn.
 
-**Calcul des valeurs propres** 
+**Calcul des valeurs propres**       
 Méthodes pour calculer les valeurs propres, et comprendre leur importance.
 
 **Nombre de facteurs à retenir**     
