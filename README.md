@@ -1,4 +1,4 @@
-# Cours complet sur l'analyse en composantes principales
+# Cours complet sur l'Analyse en Composantes Principales
 
 Ce projet est un cours complet sur l'analyse en composantes principales (ACP), basé sur le cours de Ricco RAKOTOMALALA. 
 
@@ -50,6 +50,5 @@ Le fichier acp_cours.ipynb est un cahier jupyter contenant l'intégralité du co
 Le fichier README.md est le présent document, fournissant une description détaillée du cours.     
 
 ### Conclusion
-Ce projet présente un cours complet sur l'analyse en composantes principales (ACP), basé sur les enseignements de Ricco RAKOTOMALALA.     
-En suivant ce cours, nous maîtrions chacune des étapes de l'ACP en python.   
-Ce qui permet d'utiliser cette technique pour explorer et visualiser des données multidimensionnelles de manière efficace. 
+Ce projet présente un cours complet sur l'Analyse en Composantes Principales (ACP), basé sur les enseignements de Ricco RAKOTOMALALA.     
+En suivant ce cours, chacune des étapes de l'ACP en python sera maîtrisée afin d'explorer et visualiser des données multidimensionnelles de manière efficace. 
